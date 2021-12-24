@@ -33,7 +33,7 @@ Esses conteúdos extras das disciplinas devem estar disponíveis na web com aces
 - Cálculo Numérico para Estatística
 
 
-### 4º semestre
+### [4º semestre](https://github.com/openBECD/4-semestre)
 - Processos Estocásticos 
 - Inferência Bayesiana
 - Modelos de Regressão e Aprendizado Supervisionado I
