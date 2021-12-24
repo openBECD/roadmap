@@ -11,7 +11,7 @@ Esses conteúdos extras das disciplinas devem estar disponíveis na web com aces
 
 ## Disciplinas
 
-### [1º semestre]()
+### 1º semestre
 - Cálculo I
 - Geometria Analítica
 - Tópicos de Matemática
