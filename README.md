@@ -11,21 +11,22 @@ Esses conteúdos extras das disciplinas devem estar disponíveis na web com aces
 
 ## Disciplinas
 
-### 1º semestre
+### [1º semestre](https://github.com/openBECD/1-semestre)
 - Cálculo I
 - Geometria Analítica
 - Tópicos de Matemática
 - Metodologia Científica I
 - Direcionamento Acadêmico I
+- Visualização e Exploração de Dados
 
-### 2º semestre
+### [2º semestre](https://github.com/openBECD/2-semestre)
 - Cálculo II
 - Álgebra Linear para Estatística
 - Probabilidade I
 - Introdução à Ciência de Computação I
 - Laboratório de Introdução à Ciência de Computação I
 
-### 3º semestre
+### [3º semestre](https://github.com/openBECD/3-semestre)
 - Cálculo III
 - Probabilidade II
 - Inferência Estatística
@@ -40,7 +41,7 @@ Esses conteúdos extras das disciplinas devem estar disponíveis na web com aces
 - Gestão da Qualidade
 - Introducação à Ciência de Dados
 
-### 5º semestre
+### [5º semestre](https://github.com/openBECD/5-semestre)
 - Estatística Computacional
 - Técnicas de Amostragem 
 - Planejamento de Experimentos I
@@ -48,16 +49,16 @@ Esses conteúdos extras das disciplinas devem estar disponíveis na web com aces
 - Aprendizado de Máquina
 
 
-### 6º semestre
+### [6º semestre](https://github.com/openBECD/6-semestre)
 - Séries Temporais e Aprendizado Dinâmico 
 - Métodos Não Paramétricos 
 - Análise Multivariada e Aprendizado Não Supervisionado
 - Modelos de Regressão e Aprendizado Supervisionado II
 
-### 7º semestre
+### [7º semestre](https://github.com/openBECD/7-semestre)
 - Mineração Estatística de Dados
 
-### Optativas Eletivas
+### [Optativas Eletivas](https://github.com/openBECD/)
 - Redes Complexas
 
 ## Próximos Passos
